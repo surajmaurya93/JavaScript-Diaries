@@ -1,0 +1,6 @@
+console.log("hello world!!!!!!!!")
+console.log(5+4)
+console.log(54*3)
+console.log("heyy everyone, my name is suraj maurya")
+console.log("hello jii kese ho")
+console.log(654/4)
